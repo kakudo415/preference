@@ -4,6 +4,7 @@
 
 using namespace std;
 
-typedef long long ll;
+typedef long long int lli;
+typedef long long double lld;
 
 int main() {}
