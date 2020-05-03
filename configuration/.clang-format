@@ -1,0 +1,5 @@
+BasedOnStyle: 'Google'
+BreakBeforeBraces: 'Attach'
+ColumnLimit: 0
+IndentWidth: 2
+UseTab: 'Never'
