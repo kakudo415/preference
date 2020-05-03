@@ -4,7 +4,7 @@
 
 using namespace std;
 
-typedef long long int lli;
-typedef long long double lld;
+using ll = long long;
+using ld = long double;
 
 int main() {}
