@@ -1,6 +1,8 @@
 #include <algorithm>
 #include <cmath>
 #include <iostream>
+#include <map>
+#include <string>
 
 using namespace std;
 
